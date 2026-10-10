@@ -1,1 +1,56 @@
+*{
+                margin: 0px;
+                padding: 0px;
+                box-sizing: border-box;
+} 
 
+
+/* Estilos generales para  header */
+.mi-header {
+    background-color: white; /* Color de fondo oscuro */
+    color: black            /* Color del texto blanco */
+    text-align: center;        /* Centrar el texto horizontalmente */
+    padding: 20px 0;           /* Espacio de relleno arriba/abajo */
+    width: 100%;               /* Ocupar todo el ancho de la pantalla */
+    position: relative;        /* Posición normal en el flujo de la página */
+    bottom: 0;
+}
+
+/* Estilos generales para lista de navegación */
+.mi-lista-navegacion {
+    background-color: withe; /* Color de fondo oscuro */
+    color: black;            /* Color del texto blanco */
+    text-align: center;        /* Centrar el texto horizontalmente */
+    padding: 20px 0;           /* Espacio de relleno arriba/abajo */
+    width: 100%;               /* Ocupar todo el ancho de la pantalla */
+    position: relative;        /* Posición normal en el flujo de la página */
+    bottom: 0;
+}
+
+/* Estilos generales para footer*/
+.mi-footer {
+    background-color: withe; /* Color de fondo oscuro */
+    color: black;            /* Color del texto blanco */
+    text-align: center;        /* Centrar el texto horizontalmente */
+    padding: 20px 0;           /* Espacio de relleno arriba/abajo */
+    width: 100%;               /* Ocupar todo el ancho de la pantalla */
+    position: relative;        /* Posición normal en el flujo de la página */
+    bottom: 0;
+}
+
+ .montserrat-regular {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 40px;
+  font-style: normal;
+}
+
+<!-- Defino font size para Título Principal -->
+.tituloPrincipal {
+    font-size= 40px;
+}
+
+<!-- Defino font size para Título Secundario -->
+. tituloSecundario {
+    font-size= 20px;
+}
